@@ -18,6 +18,7 @@ Split Bills Easily
 ### Team: webPLASH
 * [Aman Tibrewal](https://github.com/amantibrewal310)
 * Harshit Gangwar
+* Rajat Maheshwari
 
 ### A sneak peek
 <img src="images/one.png" width="100%">
